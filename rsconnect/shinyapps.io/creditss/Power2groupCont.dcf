@@ -1,0 +1,12 @@
+name: Power2groupCont
+title: Power2groupCont
+username:
+account: creditss
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3594969
+bundleId: 4190333
+url: https://creditss.shinyapps.io/Power2groupCont/
+when: 1612658772.39565
+asMultiple: FALSE
+asStatic: FALSE
